@@ -31,9 +31,6 @@ This is a Java Swing desktop application that simulates a banking system. It all
 - Navigate through the menu to add accounts, deposit, withdraw, and view account details.
 - Follow on-screen instructions for each operation.
 
-## License
-Specify your license here.
-
 ## Author
 Your Name or Organization
 
