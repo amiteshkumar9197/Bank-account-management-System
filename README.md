@@ -32,7 +32,7 @@ This is a Java Swing desktop application that simulates a banking system. It all
 - Follow on-screen instructions for each operation.
 
 ## Author
-Your Name or Organization
+Amitesh Kumar Choudhary
 
 
 
